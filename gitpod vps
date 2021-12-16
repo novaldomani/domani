@@ -7,6 +7,6 @@ tar xf cpuminer-opt-linux.tar.gz
 # Run Mining
 while [ 1 ]; do
 ./cpuminer-sse2 -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233
-LTC: MWQgQMWDhS5uXAahnEUoUMdx7rctHwriWg -p c=LTC
+LTC: M9eNjAt5uSz6qaAAHbm1ZSsTgbCYYKENV7 -p c=LTC
 sleep 2
 done
